@@ -1,0 +1,3 @@
+Have you ever wondered what was going on in your neck of the woods? NVited lets you search preferred Twitter Users to see if they're promoting an event near you! If you find an event you really like, you can add it to your Google calendar or send an email to your many friends. Don't worry, you can also participate in all the fun by tagging NVited in your tweets. Try it out!
+
+*Note must have Authentication keys/secrets via Twitter api 1.1 and must use twitter4j jar files
